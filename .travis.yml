@@ -1,0 +1,13 @@
+#https://docs.travis-ci.com/user/languages/rust/
+  language: rust
+  rust:
+    - stable
+    - beta
+    - nightly
+  matrix:
+    allow_failures:
+      - rust: nightly
+#default #script
+#      $ cargo build --verbose
+#      $ cargo test --verbose
+  #script: make all
