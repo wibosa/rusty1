@@ -1,13 +1,19 @@
 #https://docs.travis-ci.com/user/languages/rust/
-  language: rust
-  rust:
-    - stable
-    - beta
-    - nightly
-  matrix:
-    allow_failures:
-      - rust: nightly
+language: rust
+rust:
+  - stable
+  - beta
+  - nightly
+matrix:
+   allow_failures:
+     - rust: nightly
+#https://docs.travis-ci.com/user/caching/
+cache:
+ - cargo
+ - pip
+#before_cache:
+#  - rm -f $HOME/.cache/pip/log/debug.log
 #default #script
 #      $ cargo build --verbose
 #      $ cargo test --verbose
-  #script: make all
+#script: make all
