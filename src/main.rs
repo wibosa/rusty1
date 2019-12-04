@@ -1,5 +1,5 @@
 fn main() {
-    println!("Hello,1911 rustyapp  IDEA 19.02 Travis world!");
+    println!("Hello,1912 rustyapp  IDEA 19.03 Travis world!");
     greet();
 }
 fn greet() {
