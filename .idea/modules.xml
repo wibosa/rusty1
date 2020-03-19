@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/my_mod/my_mod.iml" filepath="$PROJECT_DIR$/my_mod/my_mod.iml" />
       <module fileurl="file://$PROJECT_DIR$/rusty1.iml" filepath="$PROJECT_DIR$/rusty1.iml" />
     </modules>
   </component>

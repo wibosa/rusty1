@@ -1,5 +1,4 @@
-//mod my_mod;
-extern crate my_mod;
+use crate::my_mod;
 
 fn main() {
     println!("Hello,2020 rustyapp  IDEA 19.04 Travis world!");
