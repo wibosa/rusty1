@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/rusty1.iml" filepath="$PROJECT_DIR$/rusty1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rusty_lib/rusty_lib.iml" filepath="$PROJECT_DIR$/rusty_lib/rusty_lib.iml" />
     </modules>
   </component>
 </project>
