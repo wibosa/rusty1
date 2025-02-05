@@ -1,6 +1,6 @@
 //use rusty_lib;
 fn main() {
-    println!("Hello,2020 rustyapp  IDEA 19.04 Travis world!");
+    println!("Hello,2025 rustyapp vscode git submodule test3,git IDEA 19.04 Travis world!");
     greet();
     let _x = std::f64::consts::PI;
     //rust by example
