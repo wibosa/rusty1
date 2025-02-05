@@ -1,6 +1,6 @@
 [package]
 name = "rusty1"
-version = "0.2.2020"
+version = "0.2.2025"
 authors = ["Wim Bonekamp <wim@wibosa.nl>"]
 edition = "2018"
 
